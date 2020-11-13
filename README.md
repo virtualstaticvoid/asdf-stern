@@ -1,6 +1,6 @@
 # asdf-stern
 
-[![Build Status](https://travis-ci.org/virtualstaticvoid/asdf-stern.svg?branch=master)](https://travis-ci.org/virtualstaticvoid/asdf-stern)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/virtualstaticvoid/asdf-stern/Main%20Workflow?style=flat-square)](https://github.com/virtualstaticvoid/asdf-stern/actions)
 
 Stern [`stern`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager.
 
