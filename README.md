@@ -8,6 +8,7 @@ Stern [`stern`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version
 
 ```
 asdf plugin-add stern https://github.com/virtualstaticvoid/asdf-stern.git
+asdf install stern latest
 ```
 
 ## Use
